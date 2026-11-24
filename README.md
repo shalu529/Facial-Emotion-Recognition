@@ -2,7 +2,7 @@
 * This is a Python based project with libraries like numpy, pandas, matplotlib, keras and tensorflow
 * This project also include libraries - sklearn, seaborn
 
-## Execution
+## EXECUTION
 Make sure that you provide complete path of the directory to the target location first.
 
 
