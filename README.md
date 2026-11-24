@@ -2,6 +2,10 @@
 * This is a Python based project with libraries like numpy, pandas, matplotlib, keras and tensorflow
 * This project also include libraries - sklearn, seaborn
 
+## Execution
+Make sure that you provide complete path of the directory to the target location first.
+
+
 ## OUTPUTS
 * Subplot of training and validation accuracy and loss
   <img width="1172" height="646" alt="loss   accuracy" src="https://github.com/user-attachments/assets/ea55f706-7560-4e5c-b424-bceee80144d6" />
