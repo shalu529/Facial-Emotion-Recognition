@@ -1,6 +1,8 @@
 # FACIAL EMOTION RECOGNITION
 * This is a Python based project with libraries like numpy, pandas, matplotlib, keras and tensorflow
 * This project also include libraries - sklearn, seaborn
+* Total number of convolution layers used - 4
+* Total number of fully connected layers - 2
 
 ## EXECUTION
 Make sure that you provide complete path of the directory to the target location first.
